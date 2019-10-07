@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 import os
 import sys
+#this is manage.py for handling all major tasks
 
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "mysite.settings")
